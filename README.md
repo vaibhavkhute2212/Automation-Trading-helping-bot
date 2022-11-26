@@ -1,1 +1,0 @@
-# Automation-Trading-helping-bot
